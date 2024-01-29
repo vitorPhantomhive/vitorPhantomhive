@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Vítor Khaled 
 
 - 🔭 Hoje trabalho sendo full-stack
-- 🌱 Estudando ReactJs e NodeJs
+- 🌱 Estudando ReactJs, C#, ASP.NET CORE 
 - 😄 Pronomes: rock/café
 
   
