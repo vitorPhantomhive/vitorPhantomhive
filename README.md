@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho sendo full-stack
 - 🌱 Estudando ReactJs, C#, ASP.NET CORE 
-- 😄 Pronomes: rock/café
+- 😄 Pronomes: Ele/Dele
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorPhantomhive&show_icons=true&theme=dracula)
